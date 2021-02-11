@@ -70,14 +70,14 @@ avaliar 'q2' '' '(5, 7, 11)\n(11, 13, 17)\n(17, 19, 23)\n(41, 43, 47)\n(101, 103
 avaliar 'q3' '1.1 -0.5' 'inseguro'
 avaliar 'q3' '0.2 1' 'relativamente seguro'
 avaliar 'q3' '0.2 3.6' 'troque de coordenada'
-avaliar 'q3' '-1 -5' 'relativamente seguro'
-avaliar 'q3' '-5 -0.6' 'seguro'
+avaliar 'q3' '-1 -5' 'troque de coordenada'
+avaliar 'q3' '-5 -0.6' 'inseguro'
 avaliar 'q3' '4.9 0.4' 'relativamente seguro'
 avaliar 'q3' '4.6 -0.6' 'troque de coordenada'
-avaliar 'q3' '-4.8 1' 'seguro'
-avaliar 'q3' '0.4 0.7' 'seguro'
-avaliar 'q3' '0.5 -0.4' 'relativamente seguro'
-avaliar 'q3' '1.2 1.4' 'relativamente seguro'
+avaliar 'q3' '-4.8 1' 'relativamente seguro'
+avaliar 'q3' '0.4 0.7' 'relativamente seguro'
+avaliar 'q3' '0.5 -0.4' 'inseguro'
+avaliar 'q3' '1.2 1.4' 'inseguro'
 
 
 totalQuestoes=0
